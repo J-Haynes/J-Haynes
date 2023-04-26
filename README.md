@@ -13,3 +13,5 @@ I recently completed a 17 week coding bootcamp at Dev Academy Aotearoa and attai
 ➡️ SQLITE3
 
 ➡️ Knex
+
+Below are a collection of group and solo work I completed during both duringmy time at Dev Academmy and in my free time.
