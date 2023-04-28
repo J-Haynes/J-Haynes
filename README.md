@@ -14,4 +14,6 @@ I recently completed a 17 week coding bootcamp at Dev Academy Aotearoa and attai
 
 ##
 
-Below are a collection of group and solo work I completed during both duringmy time at Dev Academmy and in my free time.
+Below are a collection of group and solo work I completed during both duringmy time at Dev Academmy and in my free time: 
+
+<a href="https://github.com/J-Haynes/pingpong>"PingPong</a> - This was my final group project at Dev Academy. Built in React Native, it is a basic social media app designed to kill your groupchat. Sign up, add your friends, and send a 'ping' with your current location to let your friends know what you're up to!
