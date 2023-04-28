@@ -10,7 +10,7 @@ I recently completed a 17 week coding bootcamp at Dev Academy Aotearoa and attai
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />   
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />  
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="sqlite3" src="https://img.shields.io/badge/SQLite3-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
+  <img alt="sqlite3" src="https://img.shields.io/badge/SQLite3-003B57.svg?style=flat-square&logo=SQLite&logoColor=white" />
 </p>
 
 ##
