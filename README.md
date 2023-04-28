@@ -1,6 +1,6 @@
 Kia Ora 👋
 
-My name is Jack Haynes, I am a full stack web developer based in Wellington, New Zealand
+## My name is Jack Haynes, I am a full stack web developer based in Wellington, New Zealand ##
 
 I recently completed a 17 week coding bootcamp at Dev Academy Aotearoa and attained a NZ certificate in applied software development. This full immersive course taught me full stack coding skills such as: 
 <p>
