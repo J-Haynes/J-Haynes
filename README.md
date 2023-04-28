@@ -18,6 +18,6 @@ I recently completed a 17 week coding bootcamp at Dev Academy Aotearoa and attai
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+
 
 Below are a collection of group and solo work I completed during both duringmy time at Dev Academmy and in my free time.
