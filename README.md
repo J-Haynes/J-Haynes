@@ -24,4 +24,4 @@ Below are a collection of group and solo work I completed during both duringmy t
 
 [Weather](https://github.com/J-Haynes/weather-app) - A simple full stack weather app built in react.js. 
 
-[Password Generator](https://github.com/J-Haynes/password-gen) inspired by [passwordgenerator.net](https://passwordsgenerator.net/), this is a simple front end app for generating secure passwords. Choose your password length and types of characters (uppercase, lowercase, numbers, symbols)
+[Password Generator](https://github.com/J-Haynes/password-gen) - inspired by [passwordgenerator.net](https://passwordsgenerator.net/), this is a simple front end app for generating secure passwords. Choose your password length and types of characters (uppercase, lowercase, numbers, symbols)
