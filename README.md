@@ -23,3 +23,5 @@ Below are a collection of group and solo work I completed during both duringmy t
 [PingPong](https://github.com/J-Haynes/pingpong) - This was my final group project at Dev Academy. Built in React Native, it is a basic social media app designed to kill your groupchat. Sign up, add your friends, and send a 'ping' with your current location to let your friends know what you're up to!
 
 [Weather](https://github.com/J-Haynes/weather-app) - A simple full stack weather app built in react.js. 
+
+[Password Generator](https://github.com/J-Haynes/password-gen) inspired by [passwordgenerator.net](https://passwordsgenerator.net/), this is a simple front end app for generating secure passwords. Choose your password length and types of characters (uppercase, lowercase, numbers, symbols)
