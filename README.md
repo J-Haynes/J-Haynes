@@ -24,4 +24,4 @@ Below are a collection of group and solo work I completed during both during my 
 
 [Weather](https://github.com/J-Haynes/weather-app) - A simple, interactive full stack weather app built in react.js. See the current weather in the North Island of New Zealand. 
 
-[Password Generator](https://github.com/J-Haynes/password-gen) - inspired by [passwordgenerator.net](https://passwordsgenerator.net/), a simple front end app built in react.js for generating secure passwords. Choose your password length and select the types of characters (uppercase, lowercase, numbers, symbols). See how long your password will take to crack!
+[Password Generator](https://github.com/J-Haynes/password-gen) - Inspired by [passwordgenerator.net](https://passwordsgenerator.net/), a simple front end app built in react.js for generating secure passwords. Choose your password length and select the types of characters (uppercase, lowercase, numbers, symbols). See how long your password will take to crack!
