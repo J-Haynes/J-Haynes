@@ -19,7 +19,7 @@ A PvP-focused fork of the RuneLite client for Old School RuneScape, with Discord
 
 `Java`
 
-### [Fixture](https://github.com/J-Haynes/fixture) · [live](https://sportsapp-five.vercel.app)
+### [Fixture](https://github.com/J-Haynes/fixture) · [fixture.nz](https://fixture.nz)
 Upcoming matches and results for Supercars, F1, Super Rugby and NRL, etc in one place. A simple "what's next" and "what happened" sports app without social/gambling BS.
 
 `Next.js PWA` `Postgres` `Drizzle`
