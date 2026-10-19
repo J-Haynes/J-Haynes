@@ -4,7 +4,7 @@
 
 ## Projects
 
-### [Supercars Timing](https://github.com/J-Haynes/supercars-timing)
+### [Supercars Timing](https://github.com/J-Haynes/supercars-timing) · [timing.jackhaynes.nz](https://timing.jackhaynes.nz)
 Live timing for Supercars and F1 on a 3D track map. Additional features include live graphs, insights, battle-packs, pit windows, pit rejoin visualisation.
 
 `C#` `ASP.NET Core` `React`
